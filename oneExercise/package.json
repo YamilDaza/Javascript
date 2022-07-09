@@ -1,0 +1,24 @@
+{
+  "name": "oneexercise",
+  "version": "1.0.0",
+  "description": "Primer ejercicio de Javascript con Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "saludar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YamilDaza/Javascript.git"
+  },
+  "keywords": [
+    "Javascript",
+    "programacion",
+    "desarrollador"
+  ],
+  "author": "Yamil Daza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YamilDaza/Javascript/issues"
+  },
+  "homepage": "https://github.com/YamilDaza/Javascript#readme"
+}
