@@ -1,0 +1,22 @@
+{
+  "name": "twoexercise",
+  "version": "1.0.0",
+  "description": "Segundo ejercicio del OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YamilDaza/Javascript.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Yamil Daza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YamilDaza/Javascript/issues"
+  },
+  "homepage": "https://github.com/YamilDaza/Javascript#readme"
+}
